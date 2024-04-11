@@ -1,11 +1,11 @@
-# Another Computer History Media List
+# Another Computer History / Software Development Media List
 
 
 This list was created as a compilation of replies from [this tweet](https://twitter.com/endingwithali/status/1769133187047788938). 
 
 It is available as a [Notion Template](https://endingwithali.notion.site/Computer-History-Media-b4c7d4b68fd4458e85ae68d3bcb80f37?pvs=74), with embeds, for a more interactive experience. 
 
-This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welcomed. 
+This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welcomed.
 
 ----
 
@@ -95,6 +95,10 @@ This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welco
     - [ ]  Asianometry ([Link](https://www.youtube.com/@Asianometry/videos))
     - [ ]  RetroBytes ([Link](https://www.youtube.com/@RetroBytesUK))
     - [ ]  Dave’s Garage ([Link](https://www.youtube.com/@DavesGarage))
+    - [ ]  Anthony GG ([Link](https://www.youtube.com/@anthonygg_))
+    - [ ]  ThePrimeAgen ([Link](https://www.youtube.com/@ThePrimeTimeagen))
+    - [ ]  Web Dev Simplified ([Link](https://www.youtube.com/@WebDevSimplified))
+    - [ ]  Fireship ([Link](https://www.youtube.com/@Fireship))
 
 - Talks
     - [ ]  MacPaint Interview and Demonstration ([YouTube Playlist Link](https://www.youtube.com/watch?v=-syl7m_i-80&ab_channel=ComputerHistoryMuseum))
