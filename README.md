@@ -5,7 +5,7 @@ This list was created as a compilation of replies from [this tweet](https://twit
 
 It is available as a [Notion Template](https://endingwithali.notion.site/Computer-History-Media-b4c7d4b68fd4458e85ae68d3bcb80f37?pvs=74), with embeds, for a more interactive experience. 
 
-This list is maintained by [Ali Diamond](https://links.ali.dev/)- PR's are welcomed.
+This list is maintained by [Daniel](https://danielhjermitslev.com)- PR's are welcomed.
 
 ----
 
